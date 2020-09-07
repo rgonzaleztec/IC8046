@@ -42,6 +42,8 @@ La estructura debe tener nombre del día, nombre de la clase, indicar de M(maña
 * Cree una función que le permita modificar un nodo
 * Cree una función que le permite contar cuantos elementos tiene la lista
 * Cree todas las funciones de insertar, borrar, modificar, buscar pero ahora para listas doblemente enlazadas
+* Cree listas enlazas para controlar las tareas que hago durante la semana
+
 
  ## Uso del repositorio
  Se permite el mismo sin restricciones siempre con la intensión de compartir conocimiento y buenas prácticas.
