@@ -11,7 +11,7 @@ El codigo esta en un archivo en word debe compiarlo en un cpp de su projecto
 
 [Codido ejemplo listas circulares](https://app.box.com/s/wurej6euluiro0wm2au2q3c4r9r7h8n6)
 
-[Archivo zip con varios codigos de listas y apuntadores] (https://app.box.com/s/g5yoa5rou888qidpkm1xvaz3lm2sk6x7)
+[Archivo zip con varios codigos de listas y apuntadores](https://app.box.com/s/g5yoa5rou888qidpkm1xvaz3lm2sk6x7)
 
 
  ## Uso del repositorio
