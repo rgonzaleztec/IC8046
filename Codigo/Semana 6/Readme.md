@@ -140,7 +140,7 @@ tabulates all patterns that are not uniform.
 So why are uniform LBP patterns so interesting? Simply put: they add an extra level of rotation and grayscale invariance,
 hence they are commonly used when extracting LBP feature vectors from images.
 
-## Excersices
+## Exercises
 * Create a tool to plot a GLCM of a photo and characterize the image texture.
 * Create a tool in python to compute a histogram to tabulates the number of times each LBP pattern occurs for an image.
 
