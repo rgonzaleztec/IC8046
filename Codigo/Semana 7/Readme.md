@@ -43,7 +43,7 @@ Again, in kNN, it is true we are considering k neighbours, but we are giving equ
 
 ### Tutorial 
 
-[OCR of Hand-written Data using kNN](https://github.com/abidrahmank/OpenCV2-Python-Tutorials/blob/master/source/py_tutorials/py_ml/py_knn/py_knn_opencv/py_knn_opencv.rst)
+[OCR of Hand-written Data using kNN](https://docs.opencv.org/master/d8/d4b/tutorial_py_knn_opencv.html)
 
 [K-NN Classifier for Image Classification](https://www.pyimagesearch.com/2016/08/08/k-nn-classifier-for-image-classification/)
 
