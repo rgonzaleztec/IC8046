@@ -223,7 +223,7 @@ Limitaciones de PCA:
 [Robust Principal Component Analysis with Adaptive Neighbors](http://papers.nips.cc/paper/8919-robust-principal-component-analysis-with-adaptive-neighbors)
 
 
-## Assigments
+## Assignments
 * Mediante PCA cree un algortihmo que permita identificar los componentes principales de images de rostros de 512x512, para ellos todos los estudiantes proporcionaran 10 fotos(Almacenarlas [aquí](https://drive.google.com/drive/folders/1IhufSGU5Llbp_3pO8lw2A4g3cz12IlRB?usp=sharing)). Las fotos deberan estar alineadas, esto que quiere decir que al tomarse la foto de solo la cara esta debe estar alineada horizontalmente, los dos ojos a la misma altura de frente. Se deben indicar cualas son las componentes principales que PCA determino sobre la matriz de datos de las imagenes. Se realiza en parejas y se entrega el 3 de noviembre de 2021 mediante Tec-Digital.
 * Basado en [The Perceptron](https://app.box.com/s/hlltz9flx3b2ah5ovs1ennqyztydcv1b) desarrollo una infografía sobre el perceptron
 
