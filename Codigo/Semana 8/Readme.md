@@ -99,6 +99,9 @@ When updating the curve, to know in which direction and how much to change or up
 
 
 ### Example of Feedforward Neural Networks
+
+[Perceptron](https://colab.research.google.com/drive/1yTOysDUdtcqd1XmTDWVaaTuSq44LSVjD?usp=sharing)
+
 [Ejemplo](https://colab.research.google.com/drive/1ncX2VflQLudR9FLy2WCTpqcUvvF2gS2J?usp=sharing)
 
 
