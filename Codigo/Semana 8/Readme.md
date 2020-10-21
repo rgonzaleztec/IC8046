@@ -98,6 +98,10 @@ When updating the curve, to know in which direction and how much to change or up
 ![resu](img/derivative.png)
 
 
+### Example of Feedforward Neural Networks
+[Ejemplo](https://colab.research.google.com/drive/1ncX2VflQLudR9FLy2WCTpqcUvvF2gS2J?usp=sharing)
+
+
 ## Dimensionalidad
 La dimensionalidad en las estadísticas se refiere a cuántos atributos tiene un conjunto de datos. Por ejemplo, los datos de salud son conocidos por tener una gran cantidad de variables (por ejemplo, presión arterial, peso, nivel de colesterol). En un mundo ideal, estos datos podrían representarse en una hoja de cálculo, con una columna que representa cada dimensión. En la práctica, esto es difícil de hacer, en parte porque muchas variables están interrelacionadas (como el peso y la presión arterial).
 
