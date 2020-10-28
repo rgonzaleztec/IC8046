@@ -154,3 +154,7 @@ If we substitute the mean vectors m1 and m2 as well as the variance s as given b
 
 ![Larger betweeb-class variance](equations_2.png)
 
+### Ejemplo completo
+[Example compare different approach](https://drive.google.com/file/d/17H8On3pLaDZ4RlQkOcEAUYxMo_-KgNuZ/view?usp=sharing)
+[Multivariable exmple](https://drive.google.com/file/d/19AizOC1zIL-Lh1mVpxTYMHgvUtIqgMkH/view?usp=sharing)
+
