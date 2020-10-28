@@ -1,1 +1,1 @@
-## Leaq
+# Least squares for classification
