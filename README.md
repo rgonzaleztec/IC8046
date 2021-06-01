@@ -1,8 +1,8 @@
 # IC8046
  Repositotio para la electiva de reconocimiento de patrones
 
- Este repositorio es solo con fines academicos para concentrar la información del curso.
- Todo lo publicado acá se esta desarrollando o colectando del proceso de construcción que el profesor hacer sobre materiales.
+ Este repositorio es solo con fines académicos para concentrar la información del curso.
+ Todo lo publicado acá se esta desarrollando o colectando del proceso de construcción que el profesor realiza sobre materiales.
 
  Las prácticas, código y soluciones tienen el objetivo de guiar a los estudiantes y ser fuente de consulta.
 
