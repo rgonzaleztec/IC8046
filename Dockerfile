@@ -1,2 +1,3 @@
-#docker build -t rgonzaleztec/pruebaredes -<<EOF
-RUN echo "hello world"
+FROM scratch
+COPY hello /
+CMD ["/hello"]
