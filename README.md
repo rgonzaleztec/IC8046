@@ -15,3 +15,6 @@
  ## Uso del repositorio
  Se permite el mismo sin restricciones siempre con la intensión de compartir conocimiento y buenas prácticas.
  
+ ## Uso del repositorio
+ Se permite el mismo sin restricciones siempre con la intensión de compartir conocimiento y buenas prácticas.
+ 
